@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'awards.app.AwardsConfig',
     'cloudinary',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
