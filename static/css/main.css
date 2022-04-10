@@ -37,6 +37,16 @@
     text-align: center;
 }
 
+.main-project-title a {
+    color: white;
+    transition: 0.3s ease-in-out;
+}
+
+.main-project-title a:hover {
+    color: blue;
+    transition: 0.3s ease-in-out;
+}
+
 .main-project-title h1 {
     font-size: 2rem;
     font-weight: 400;
