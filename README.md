@@ -69,15 +69,16 @@ This is the form for submitting  your project
 This is the  user profile
 
 ![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.png)
-![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single.png)
+
 
 This is the single project view
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-rate.png)
 
 
-![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.png)
 
 This is the form for rating a project
-##Extra
+## Extra
 
 To use my api navigate to this urls
 
