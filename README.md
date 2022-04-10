@@ -48,32 +48,33 @@ python3 manage.py runserver
 ```
 ## Screenshot
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-landing.png)
 
 This is landing page
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-signup.png)
 
 This is the signup page
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-login.png)
 
 This is the login page
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-submit.png)
 
 This is the form for submitting  your project
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-profile.png)
 
 This is the  user profile
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.png)
 
 This is the single project view
 
 
-![Screnshot](https://github.com/Eugene-Oluoch/instagram-clone/blob/master/static/images/website%20screenshots/instagram.png)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.pngg)
 
 This is the form for rating a project
 ##Extra
