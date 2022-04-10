@@ -74,7 +74,7 @@ This is the  user profile
 This is the single project view
 
 
-![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.pngg)
+![Screnshot](https://github.com/Eugene-Oluoch/awwwards/blob/master/static/images/awards-single-1.png)
 
 This is the form for rating a project
 ##Extra
